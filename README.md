@@ -1,1 +1,2 @@
-# Encantarte
+# encantarte
+GitHub Pages
